@@ -115,7 +115,7 @@ author:
       url: "mailto:koteha@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://https://friedkeyboard.github.io"
+      url: "https://https://friedkeyboard.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/friedkeyboard"
