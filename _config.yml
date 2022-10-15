@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Fried KeyBoard's github blog"
+title                    : "튀긴키보드"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "튀긴키보드"
+subtitle                 : "개발 블로그"
+name                     : "FriedKeyBoard"
 description              : "튀긴키보드의 블로그"
 url                      : "https://FriedKeyBoard.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
